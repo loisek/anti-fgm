@@ -1,0 +1,10 @@
+{
+    "name": "Fgm - usikimye",
+    "description": "Solution around reporting fgm cases",
+    "repository": "https://github.com/loisek/anti-fgm",
+    "port": 3000,
+    "AT": {
+        "username": "",
+        "apiKey": ""
+    }
+}
